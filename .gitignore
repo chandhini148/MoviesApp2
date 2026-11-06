@@ -1,0 +1,22 @@
+# Android Studio
+*.iml
+.idea/
+.DS_Store
+
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local configuration and API keys
+local.properties
+
+# Firebase configuration (keep out of a public repository)
+google-services.json
+
+# Native build files
+.externalNativeBuild/
+.cxx/
+
+# Captures
+/captures/
